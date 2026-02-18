@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use the NIOP-S Framework, please cite the software using the metadata below."
+title: "NIOP-S Framework: Adaptive Spatio-Temporal Nature Investment Optimisation Model"
+type: software
+version: "v0.1-pre-release"
+doi: 10.5281/zenodo.18675992
+repository-code: "https://github.com/JordanHoldorf/NIOP-S-Framework"
+license: MIT
+
+authors:
+  - family-names: Holdorf
+    given-names: Jordan
+
+abstract: >
+  The NIOP-S Framework is a stochastic spatio-temporal conservation investment
+  optimisation model integrating stochastic dynamic programming, spatial Markov
+  processes, and climate disturbance simulations.
+
+keywords:
+  - stochastic dynamic programming
+  - conservation investment
+  - climate risk
+  - ecological restoration
+  - carbon markets
