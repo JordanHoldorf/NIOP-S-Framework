@@ -1,24 +1,25 @@
 cff-version: 1.2.0
-message: "If you use the NIOP-S Framework, please cite the software using the metadata below."
-title: "NIOP-S Framework: Adaptive Spatio-Temporal Nature Investment Optimisation Model"
-type: software
-version: "v0.1-pre-release"
-doi: 10.5281/zenodo.18675992
-repository-code: "https://github.com/JordanHoldorf/NIOP-S-Framework"
-license: MIT
-
+message: "If you use this software, please cite it as below."
+title: "Spatio-temporal Nature Investment Optimisation and Planning (NIOP-S)"
 authors:
-  - family-names: Holdorf
-    given-names: Jordan
-
-abstract: >
-  The NIOP-S Framework is a stochastic spatio-temporal conservation investment
-  optimisation model integrating stochastic dynamic programming, spatial Markov
-  processes, and climate disturbance simulations.
-
-keywords:
-  - stochastic dynamic programming
-  - conservation investment
-  - climate risk
-  - ecological restoration
-  - carbon markets
+  - family-names: "Holdorf"
+    given-names: "Jordan"
+    orcid: "https://orcid.org/0000-0002-0962-6865"
+    affiliation: "Coastal and Marine Research Centre, Australian Rivers Institute, School of Environment and Science, Griffith University, Gold Coast, Queensland, Australia"
+  - family-names: "Roberts"
+    given-names: "Melanie E."
+    orcid: "https://orcid.org/0000-0003-4027-9651"
+    affiliation: "Australian Rivers Institute, School of Environment and Science, Griffith University, Gold Coast, Queensland, Australia"
+  - family-names: "Diaz-Rainey"
+    given-names: "Ivan"
+    orcid: "https://orcid.org/0000-0002-9188-0749"
+    affiliation: "Department of Accounting, Finance and Economics, Griffith Business School, Griffith University, Gold Coast, Queensland, Australia"
+  - family-names: "Brown"
+    given-names: "Christopher J."
+    orcid: "https://orcid.org/0000-0002-7271-4091"
+    affiliation: "Institute for Marine and Antarctic Studies, University of Tasmania, Taroona, Tasmania 7053, Australia; Coastal and Marine Research Centre, Australian Rivers Institute, Griffith University, Gold Coast, Queensland, Australia"
+license: "MIT"
+version: "0.1.0-pre"
+doi: "10.5281/zenodo.18675992" 
+date-released: 2026-02-18
+url: "https://github.com/JordanHoldorf/NIOP-S-Framework"
