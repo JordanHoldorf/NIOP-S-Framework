@@ -71,10 +71,7 @@ and should be excluded from version control via .gitignore.
 
 Citation
 --------
-## Citation
-
-If you use the NIOP-S Framework in research, policy analysis, or publications,
-please cite the archived software release:
+If you use the NIOP-S Framework please cite the archived software release:
 
 Citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
