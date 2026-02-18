@@ -76,7 +76,5 @@ Citation
 If you use the NIOP-S Framework in research, policy analysis, or publications,
 please cite the archived software release:
 
-Holdorf, J. (2026). *NIOP-S Framework: Adaptive Spatio-Temporal Nature Investment Optimisation Model* (v0.1-pre-release). Zenodo. https://doi.org/10.5281/zenodo.18675992
-
 Citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
