@@ -1,0 +1,84 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ----------------------------
+# R
+# ----------------------------
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Rproj.user/
+.Renviron
+.httr-oauth
+rsconnect/
+
+# knitr and R markdown default cache directories
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+
+# pkgdown site
+docs/
+
+# translation temp files
+po/*~
+
+# ----------------------------
+# OS-specific
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Exclude outputs & documents
+# ----------------------------
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.xlsm
+*.ods
+*.doc
+*.docx
+*.pdf
+*.rtf
+*.txt
+*.md
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.gif
+*.svg
+
+# ----------------------------
+# Exclude "old" folders (any case)
+# ----------------------------
+**/[Oo][Ll][Dd]/**
